@@ -1,17 +1,49 @@
 <h1 align="center">Dorian Millet</h1>
-<p align="center"><b>Développeur logiciel en reconversion · Toulouse</b><br>Ex-prothésiste dentaire (CFAO, conception 3D) · Je construis aujourd'hui les logiciels que j'utilisais hier.</p>
+<p align="center"><b>Développeur logiciel et outils IA · Fondateur de <a href="https://milhocstudio.fr">Milhoc Studio</a> · Toulouse</b><br>Ex-prothésiste dentaire (CFAO, conception 3D) · Je construis aujourd'hui les logiciels que j'utilisais hier.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dorian-millet"><img src="https://img.shields.io/badge/LinkedIn-dorian--millet-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Recherche-stage%20puis%20alternance%20CDA-2ea44f" alt="Recherche stage puis alternance">
+  <a href="https://milhocstudio.fr"><img src="https://img.shields.io/badge/Studio-milhocstudio.fr-8A2BE2" alt="Milhoc Studio"></a>
+  <img src="https://img.shields.io/badge/Recherche-alternance%20CDA%20(contrat%20pro)-2ea44f" alt="Recherche alternance CDA">
   <img src="https://img.shields.io/badge/Toulouse-mobile-555" alt="Toulouse, mobile">
 </p>
 
 ## À propos
 
-Pendant huit ans, j'ai conçu des prothèses dentaires en 3D au dixième de millimètre, avec des logiciels de CFAO. Autodidacte, je développe maintenant mes propres applications, du serveur temps réel à l'interface 3D.
+Pendant huit ans, j'ai conçu des prothèses dentaires en 3D au dixième de millimètre, avec des logiciels de CFAO. Autodidacte, je développe maintenant mes propres applications au sein de **Milhoc Studio**, mon studio : un jeu de rôle en ligne, un assistant vocal, et des outils qui donnent des mains à l'IA.
 
-Je recherche un **stage**, puis une **alternance de Concepteur Développeur d'Applications**, dans le secteur de Toulouse.
+Je recherche une **immersion**, puis une **alternance (contrat de professionnalisation) de Concepteur Développeur d'Applications**, titre RNCP niveau 6, dans le secteur de Toulouse.
+
+## Ma façon de travailler avec l'IA
+
+> **Pas d'IA sans donnée, pas de donnée sans humain.**
+
+Avant de construire un agent ou un automatisme, je pars d'une tâche précise et mesurable, pas d'une technologie. Je fais le travail à la main une fois, j'audite la donnée qu'il va lire, puis je livre la plus petite version possible, en copilote : l'outil propose, l'humain valide. Sécurité dès la conception (le minimum d'outils, lecture seule par défaut, rien d'irréversible sans accord), tests sur des cas réels, et autonomie accordée par paliers.
+
+## 🚀 À essayer
+
+### 🎬 [Vidboost](https://github.com/DorianMillet/Vidboost) · un skill Claude pour obtenir plus de vues
+Titres, miniature, accroche, structure de rétention, hashtags et meilleur créneau de publication pour YouTube, Shorts, TikTok et Reels. Pas de fausses vues : uniquement ce qui fait cliquer et rester.
+**S'installe en une minute** dans Claude ou Claude Code. ⭐ Une étoile ou un retour en issue m'aide beaucoup.
+
+`Claude Skill` `Prompt engineering` · MIT
+
+### 🦷 [Labo Suivi](https://github.com/DorianMillet/labo-suivi) · suivi des travaux d'un laboratoire de prothèse
+L'outil qui me manquait quand j'étais prothésiste : chaque travail, son cabinet, sa teinte, son échéance et son étape, avec les retards en rouge. Testé avec pytest.
+
+`Python` `Flask` `SQLite` `pytest`
+
+## 🔒 Milhoc Studio · projets commercialisés (code privé)
+
+> Mon activité sur ces dépôts apparaît dans mon calendrier de contributions. Démonstration possible en entretien.
+
+**🎲 La Taverne · table de jeu de rôle virtuelle (v0.1.7)** : le produit phare du studio. Carte tactique avec brouillard de guerre, dés 3D avec moteur physique, fiches de personnages, multijoueur temps réel. `Python` `Flask` `Socket.IO` `Three.js`
+
+**🎙️ Rick · assistant vocal Windows** : marche avec l'IA de son choix, gratuit et local par défaut (Ollama). Un routeur choisit la bonne IA à chaque demande et bascule sur la suivante si l'une est indisponible. Reconnaissance vocale locale (Whisper), navigateur piloté avec accord avant chaque nouveau site, clés rangées dans le coffre de Windows, mises à jour signées, installeur et tests automatisés. `Python` `faster-whisper` `Ollama` `MCP` `PyInstaller`
+
+**🧭 Claude Browser Control · serveur MCP** : donne à Claude le contrôle de n'importe quel navigateur (Chrome, Edge, Firefox, WebKit, Brave, Arc…), change de navigateur à chaud, se branche sur un navigateur déjà ouvert et compare une page sur plusieurs moteurs. Construit sur Playwright MCP. `Node.js` `MCP` `Playwright`
+
+**⚔️ Scripting pour serveurs multijoueurs** : inventaires, mécaniques de jeu et boutiques. `Lua`
 
 ## Stack
 
@@ -19,32 +51,19 @@ Je recherche un **stage**, puis une **alternance de Concepteur Développeur d'Ap
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20%26%20MCP-D97757?logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-## Projets
-
-> Mes deux projets principaux sont **commercialisés** : leur code est privé, mais mon activité sur ces dépôts apparaît dans mon calendrier de contributions. Démonstration possible en entretien.
-
-### 🎲 La Taverne · table de jeu virtuelle (VTT) — v0.1.7
-Application de jeu de rôle en ligne, menée du prototype à la version 0.1.7 : carte tactique (brouillard de guerre, murs, pions), dés 3D avec moteur physique, fiches de personnages liées aux données, règles configurables, parties multijoueurs en temps réel. Site web et commercialisation sous licence.
-
-`Python` `Flask` `Socket.IO` `JavaScript` `Three.js` · 🔒 code privé
-
-### 🎙️ Rick · assistant vocal personnel
-Assistant vocal pour Windows : reconnaissance vocale locale (Whisper), synthèse vocale neuronale et LLM pour exécuter les demandes. Interface web locale, rappels, routines, brief quotidien et veille automatisés.
-
-`Python` `faster-whisper` `edge-tts` `PowerShell` · 🔒 code privé
-
-### ⚔️ Scripting pour serveurs multijoueurs
-Systèmes d'inventaire, mécaniques de jeu et gestion de boutiques.
-
-`Lua`
-
 ## Contact
 
-[LinkedIn : linkedin.com/in/dorian-millet](https://www.linkedin.com/in/dorian-millet) · ouvert aux échanges sur le métier, les stages et l'alternance.
+[LinkedIn : linkedin.com/in/dorian-millet](https://www.linkedin.com/in/dorian-millet) · [milhocstudio.fr](https://milhocstudio.fr) · ouvert aux échanges sur le métier, l'IA, l'immersion et l'alternance.
