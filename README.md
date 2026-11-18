@@ -2,6 +2,7 @@
 <p align="center"><b>Développeur logiciel en reconversion · Toulouse</b><br>Ex-prothésiste dentaire (CFAO, conception 3D) · Je construis aujourd'hui les logiciels que j'utilisais hier.</p>
 
 <p align="center">
+  <a href="https://milhocstudio.fr"><img src="https://img.shields.io/badge/Site-milhocstudio.fr-F2B705" alt="milhocstudio.fr"></a>
   <a href="https://www.linkedin.com/in/dorian-millet"><img src="https://img.shields.io/badge/LinkedIn-dorian--millet-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Recherche-stage%20puis%20alternance%20CDA-2ea44f" alt="Recherche stage puis alternance">
   <img src="https://img.shields.io/badge/Toulouse-mobile-555" alt="Toulouse, mobile">
@@ -34,7 +35,7 @@ Je recherche un **stage**, puis une **alternance de Concepteur Développeur d'Ap
 
 <p align="center"><img src="assets/milhoc-logo.png" alt="Milhoc studio" width="260"></p>
 
-> Mes projets sont menés sous mon studio, **Milhoc studio**. Leur code est privé, mais mon activité sur ces dépôts apparaît dans mon calendrier de contributions. Démonstration possible en entretien.
+> Mes projets sont menés sous mon studio, **[Milhoc studio](https://milhocstudio.fr)**. Leur code est privé, mais mon activité sur ces dépôts apparaît dans mon calendrier de contributions. Démonstration possible en entretien.
 
 ### 🎲 La Taverne · table de jeu virtuelle (VTT) — v0.1.7
 Application de jeu de rôle en ligne, menée du prototype à la version 0.1.7 : carte tactique (brouillard de guerre, murs, pions), dés 3D avec moteur physique, fiches de personnages liées aux données, règles configurables, parties multijoueurs en temps réel. Licences (Steam ou clé) pour le meneur de jeu, accès libre pour les joueurs invités. Plus de 2 400 vérifications automatisées.
@@ -63,7 +64,7 @@ Méthodes réutilisables pour Claude : conception d'agents IA en 9 étapes, opti
 `Markdown` `Claude` · 🔒 code privé
 
 ### 🏰 Milhoc studio · site et communauté
-Site vitrine multilingue (français, anglais, espagnol) avec formulaire d'inscription, et scripts Python qui montent et animent le serveur Discord du studio.
+[milhocstudio.fr](https://milhocstudio.fr) : site vitrine multilingue (français, anglais, espagnol) avec formulaire d'inscription, et scripts Python qui montent et animent le serveur Discord du studio.
 
 `HTML` `CSS` `PHP` `Python` · 🔒 code privé
 
