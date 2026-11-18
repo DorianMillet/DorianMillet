@@ -51,6 +51,11 @@ Application de jeu de rôle en ligne, menée du prototype à la version 0.1.7 : 
 ### 🎙️ Rick · assistant vocal pour Windows
 Assistant vocal qui fonctionne avec l'IA de son choix, en local et gratuit par défaut (Ollama) ou dans le cloud (Claude, Mistral, OpenAI, Gemini…). Un routeur choisit automatiquement l'IA et le modèle selon la demande, avec relais si l'une ne répond pas. Il peut agir dans les sites web via un navigateur piloté. Livré avec un installeur Windows et une suite de tests.
 
+<p align="center">
+  <img src="assets/rick-1.png" alt="Écran principal de Rick en écoute" width="64%">
+  <img src="assets/rick-2.png" alt="Paramètres de Rick : choix de l'IA" width="32%">
+</p>
+
 `Python` `faster-whisper` `edge-tts` `PyInstaller` `Inno Setup` · 🔒 code privé
 
 ### 🌐 Claude Browser Control · serveur MCP multi-navigateurs
