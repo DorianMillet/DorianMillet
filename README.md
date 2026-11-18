@@ -22,23 +22,62 @@ Je recherche un **stage**, puis une **alternance de Concepteur Développeur d'Ap
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ## Projets
 
-> Mes deux projets principaux sont **commercialisés** : leur code est privé, mais mon activité sur ces dépôts apparaît dans mon calendrier de contributions. Démonstration possible en entretien.
+<p align="center"><img src="assets/milhoc-logo.png" alt="Milhoc studio" width="260"></p>
+
+> Mes projets sont menés sous mon studio, **Milhoc studio**. Leur code est privé, mais mon activité sur ces dépôts apparaît dans mon calendrier de contributions. Démonstration possible en entretien.
 
 ### 🎲 La Taverne · table de jeu virtuelle (VTT) — v0.1.7
-Application de jeu de rôle en ligne, menée du prototype à la version 0.1.7 : carte tactique (brouillard de guerre, murs, pions), dés 3D avec moteur physique, fiches de personnages liées aux données, règles configurables, parties multijoueurs en temps réel. Site web et commercialisation sous licence.
+Application de jeu de rôle en ligne, menée du prototype à la version 0.1.7 : carte tactique (brouillard de guerre, murs, pions), dés 3D avec moteur physique, fiches de personnages liées aux données, règles configurables, parties multijoueurs en temps réel. Licences (Steam ou clé) pour le meneur de jeu, accès libre pour les joueurs invités. Plus de 2 400 vérifications automatisées.
+
+<p align="center">
+  <img src="assets/taverne-1.jpg" alt="Combat sur la carte de l'auberge, dé d20 3D" width="32%">
+  <img src="assets/taverne-2.jpg" alt="Fiche de personnage à côté de la carte" width="32%">
+  <img src="assets/taverne-3.jpg" alt="Donjon en ruines et pion du dragon" width="32%">
+</p>
 
 `Python` `Flask` `Socket.IO` `JavaScript` `Three.js` · 🔒 code privé
 
-### 🎙️ Rick · assistant vocal personnel
-Assistant vocal pour Windows : reconnaissance vocale locale (Whisper), synthèse vocale neuronale et LLM pour exécuter les demandes. Interface web locale, rappels, routines, brief quotidien et veille automatisés.
+### 🎙️ Rick · assistant vocal pour Windows
+Assistant vocal qui fonctionne avec l'IA de son choix, en local et gratuit par défaut (Ollama) ou dans le cloud (Claude, Mistral, OpenAI, Gemini…). Un routeur choisit automatiquement l'IA et le modèle selon la demande, avec relais si l'une ne répond pas. Il peut agir dans les sites web via un navigateur piloté. Livré avec un installeur Windows et une suite de tests.
 
-`Python` `faster-whisper` `edge-tts` `PowerShell` · 🔒 code privé
+`Python` `faster-whisper` `edge-tts` `PyInstaller` `Inno Setup` · 🔒 code privé
+
+### 🌐 Claude Browser Control · serveur MCP multi-navigateurs
+Serveur MCP qui permet à Claude de piloter n'importe quel navigateur (Chrome, Edge, Firefox, WebKit, Brave, Opera, Arc…), de se brancher sur un navigateur déjà ouvert, et de comparer une page sur plusieurs moteurs. Refus automatique des bandeaux de cookies. Construit sur Playwright MCP.
+
+`Node.js` `Playwright` `MCP` · 🔒 code privé
+
+### 🧩 Skills pour Claude
+Méthodes réutilisables pour Claude : conception d'agents IA en 9 étapes, optimisation de vidéos (YouTube, Shorts, TikTok, Reels), pilotage de navigateur, organisation d'espace de travail.
+
+`Markdown` `Claude` · 🔒 code privé
+
+### 🏰 Milhoc studio · site et communauté
+Site vitrine multilingue (français, anglais, espagnol) avec formulaire d'inscription, et scripts Python qui montent et animent le serveur Discord du studio.
+
+`HTML` `CSS` `PHP` `Python` · 🔒 code privé
+
+### 📖 Codex de Magic · livre imprimé
+<img src="assets/codex-couverture.jpg" alt="Couverture du Codex de Magic" width="160" align="right">
+
+Guide des règles de Magic: The Gathering, mis en page en 16×24 pour l'impression : chaîne de fabrication automatisée (Markdown vers LaTeX, couverture générée par script).
+
+`LaTeX` `Lua` `Python` · 🔒 code privé
+
+### 🦷 labo-suivi · suivi d'un laboratoire de prothèse dentaire
+Application web de suivi des travaux d'un laboratoire, née de mon ancien métier.
+
+`Python` `Flask` `SQLite` `pytest` · 🔒 code privé
 
 ### ⚔️ Scripting pour serveurs multijoueurs
 Systèmes d'inventaire, mécaniques de jeu et gestion de boutiques.
