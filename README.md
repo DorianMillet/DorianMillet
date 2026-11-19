@@ -1,10 +1,10 @@
 <h1 align="center">Dorian Millet</h1>
-<p align="center"><b>Développeur logiciel et outils IA · Fondateur de <a href="https://milhocstudio.fr">Milhoc Studio</a> · Toulouse</b><br>Ex-prothésiste dentaire (CFAO, conception 3D) · Je construis aujourd'hui les logiciels que j'utilisais hier.</p>
+<p align="center"><b>Développeur d'applications · Fondateur de <a href="https://milhocstudio.fr">Milhoc Studio</a> · Toulouse</b><br>Ex-prothésiste dentaire (CFAO, conception 3D) · Je construis aujourd'hui les logiciels que j'utilisais hier.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dorian-millet"><img src="https://img.shields.io/badge/LinkedIn-dorian--millet-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://milhocstudio.fr"><img src="https://img.shields.io/badge/Studio-milhocstudio.fr-8A2BE2" alt="Milhoc Studio"></a>
-  <img src="https://img.shields.io/badge/Recherche-alternance%20CDA%20(contrat%20pro)-2ea44f" alt="Recherche alternance CDA">
+  <img src="https://img.shields.io/badge/Recherche-alternance%20d%C3%A9veloppeur-2ea44f" alt="Recherche alternance développeur">
   <img src="https://img.shields.io/badge/Toulouse-mobile-555" alt="Toulouse, mobile">
 </p>
 
@@ -12,13 +12,7 @@
 
 Pendant huit ans, j'ai conçu des prothèses dentaires en 3D au dixième de millimètre, avec des logiciels de CFAO. Autodidacte, je développe maintenant mes propres applications au sein de **Milhoc Studio**, mon studio : un jeu de rôle en ligne, un assistant vocal, et des outils qui donnent des mains à l'IA.
 
-Je recherche une **immersion**, puis une **alternance (contrat de professionnalisation) de Concepteur Développeur d'Applications**, titre RNCP niveau 6, dans le secteur de Toulouse.
-
-## Ma façon de travailler avec l'IA
-
-> **Pas d'IA sans donnée, pas de donnée sans humain.**
-
-Avant de construire un agent ou un automatisme, je pars d'une tâche précise et mesurable, pas d'une technologie. Je fais le travail à la main une fois, j'audite la donnée qu'il va lire, puis je livre la plus petite version possible, en copilote : l'outil propose, l'humain valide. Sécurité dès la conception (le minimum d'outils, lecture seule par défaut, rien d'irréversible sans accord), tests sur des cas réels, et autonomie accordée par paliers.
+Je cherche une **alternance de développeur** à Toulouse : Concepteur Développeur d'Applications (RNCP 6) ou Développeur informatique, spécialisation Builder IA, chez OpenClassrooms (RNCP 5).
 
 ## 🚀 À essayer
 
@@ -66,4 +60,4 @@ L'outil qui me manquait quand j'étais prothésiste : chaque travail, son cabine
 
 ## Contact
 
-[LinkedIn : linkedin.com/in/dorian-millet](https://www.linkedin.com/in/dorian-millet) · [milhocstudio.fr](https://milhocstudio.fr) · ouvert aux échanges sur le métier, l'IA, l'immersion et l'alternance.
+[LinkedIn : linkedin.com/in/dorian-millet](https://www.linkedin.com/in/dorian-millet) · [milhocstudio.fr](https://milhocstudio.fr) · ouvert aux échanges sur le métier, l'IA et l'alternance.
