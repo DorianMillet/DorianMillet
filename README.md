@@ -18,6 +18,8 @@ Je cherche une **alternance de développeur** à Toulouse : Concepteur Développ
 
 <p align="center"><img src="assets/milhoc-logo.png" alt="Milhoc Studio" width="260"></p>
 
+> 🎬 Chaque projet a sa vidéo de présentation : clique sur l'aperçu pour la lancer.
+>
 > Mes projets sont menés sous mon studio, **[Milhoc Studio](https://milhocstudio.fr)**. Leur code est privé, mais mon activité sur ces dépôts apparaît dans mon calendrier de contributions. Démonstration possible en entretien.
 
 ### 🎲 La Taverne · table de jeu de rôle virtuelle (v0.1.7)
@@ -39,20 +41,28 @@ Marche avec l'IA de son choix, gratuit et local par défaut (Ollama) ou dans le 
   <img src="assets/rick-2.png" alt="Paramètres de Rick : choix de l'IA" width="32%">
 </p>
 
+<p align="center"><a href="assets/videos/rick-presentation.mp4"><img src="assets/videos/rick-affiche.jpg" alt="Vidéo de présentation" width="64%"></a><br><sub>▶️ Cliquer pour voir la vidéo de présentation</sub></p>
+
 `Python` `faster-whisper` `Ollama` `MCP` `PyInstaller` `Inno Setup`
 
 ### 🧭 Claude Browser Control · serveur MCP multi-navigateurs
 Donne à Claude le contrôle de n'importe quel navigateur (Chrome, Edge, Firefox, WebKit, Brave, Opera, Arc…), change de navigateur à chaud, se branche sur un navigateur déjà ouvert et compare une page sur plusieurs moteurs. Refus automatique des bandeaux de cookies. Construit sur Playwright MCP.
+
+<p align="center"><a href="assets/videos/claude-browser-control-presentation.mp4"><img src="assets/videos/claude-browser-control-affiche.jpg" alt="Vidéo de présentation" width="64%"></a><br><sub>▶️ Cliquer pour voir la vidéo de présentation</sub></p>
 
 `Node.js` `MCP` `Playwright`
 
 ### 🦷 Labo Suivi · suivi des travaux d'un laboratoire de prothèse
 L'outil qui me manquait quand j'étais prothésiste : chaque travail, son cabinet, sa teinte, son échéance et son étape, avec les retards en rouge. Testé avec pytest.
 
+<p align="center"><a href="assets/videos/labo-suivi-presentation.mp4"><img src="assets/videos/labo-suivi-affiche.jpg" alt="Vidéo de présentation" width="64%"></a><br><sub>▶️ Cliquer pour voir la vidéo de présentation</sub></p>
+
 `Python` `Flask` `SQLite` `pytest`
 
 ### 🎬 Vidboost · un skill Claude pour obtenir plus de vues
 Titres, miniature, accroche, structure de rétention, hashtags et meilleur créneau de publication pour YouTube, Shorts, TikTok et Reels. Pas de fausses vues : uniquement ce qui fait cliquer et rester.
+
+<p align="center"><a href="assets/videos/vidboost-presentation.mp4"><img src="assets/videos/vidboost-affiche.jpg" alt="Vidéo de présentation" width="64%"></a><br><sub>▶️ Cliquer pour voir la vidéo de présentation</sub></p>
 
 `Claude Skill` `Prompt engineering`
 
@@ -65,6 +75,8 @@ Titres, miniature, accroche, structure de rétention, hashtags et meilleur crén
 <img src="assets/codex-couverture.jpg" alt="Couverture du Codex de Magic" width="160" align="right">
 
 Guide des règles de Magic: The Gathering, mis en page en 16×24 pour l'impression : chaîne de fabrication automatisée (Markdown vers LaTeX, couverture générée par script).
+
+<p align="center"><a href="assets/videos/codex-presentation.mp4"><img src="assets/videos/codex-affiche.jpg" alt="Vidéo de présentation" width="64%"></a><br><sub>▶️ Cliquer pour voir la vidéo de présentation</sub></p>
 
 `LaTeX` `Lua` `Python`
 
